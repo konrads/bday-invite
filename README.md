@@ -30,4 +30,4 @@ python main.py
 
 This creates images in the `invites` folder, as per example below. Check these before printing!
 
-![invite-example](doc/image/invite-example.png?raw=true)
+![invite-example](doc/invite-example.png?raw=true)
